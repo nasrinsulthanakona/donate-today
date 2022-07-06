@@ -107,18 +107,18 @@
 }
 
 #Food-family {
-    background-color: aqua;
+    background-color: rgba(222, 184, 135, 0.551);
     margin-right: 5%;
     border-radius: 5px;
 }
 
 #Shelter-family {
-    background-color: rgb(43, 176, 43);
+    background-color: rgba(43, 176, 43, 0.264);
     border-radius: 5px;
 }
 
 #Education-child {
-    background-color: aquamarine;
+    background-color: rgba(127, 255, 212, 0.441);
     margin-left: 5%;
     border-radius: 5px;
 }
